@@ -1,5 +1,6 @@
 # timeseries-hr-analyitics-portfolio-project
-Project Name: HR Analytics: Exploring Unemployment Trends in the United States  
+
+**Project Name:** HR Analytics: Exploring Unemployment Trends in the United States  
 
 **Description:** This GitHub repository contains a Jupyter Notebook documenting an in-depth analysis of unemployment trends in the United States from 2010 to 2019. Leveraging the Unemployment Kaggle Dataset (2010 - 2020) uploaded by Aniruddha Shirahatti, the analysis explores variations in unemployment rates across different demographic groups, including education level, race, and gender.  
 
